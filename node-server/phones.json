@@ -1,0 +1,508 @@
+[
+    {
+      "id": 1,
+      "marka": "IPHONE",
+      "model": "14 PRO MAX",
+      "slika": {
+        "putanja": "images/apple-iphone-14-pro-max-.jpg",
+        "alt": "iphone14ProMax"
+      },
+      "kolicina": 6,
+      "cena": 177.999,
+      "specifikacije": {
+        "ekran": 6.7,
+        "procesor": "Apple A16 Bionic",
+        "RAM": "6GB",
+        "memorija": "128gb",
+        "operativniSistem": "iOS 16",
+        "kamera": {
+          "prednja": "12MP",
+          "zadnja": "48MP, 12MP, 12MP"
+        }
+      }
+    },
+    {
+        "id": 2,
+        "marka": "IPHONE",
+        "model": "14",
+        "slika": {
+          "putanja": "images/apple-iphone-14.jpg",
+          "alt": "iphone14"
+        },
+        "kolicina": 6,
+        "cena": 138.999,
+        "specifikacije": {
+          "ekran": 6.1,
+          "procesor": "Apple A15 Bionic",
+          "RAM": "6GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "marka": "IPHONE",
+        "model": "13 PRO MAX",
+        "slika": {
+          "putanja": "images/apple-iphone-13-pro-max.jpg",
+          "alt": "iphone13ProMax"
+        },
+        "kolicina": 3,
+        "cena": 174.599,
+        "specifikacije": {
+          "ekran": 6.7,
+          "procesor": "Apple A15 Bionic",
+          "RAM": "6GB",
+          "memorija": "256gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "marka": "IPHONE",
+        "model": "13",
+        "slika": {
+          "putanja": "images/apple-iphone-13.jpg",
+          "alt": "iphone13"
+        },
+        "kolicina": 3,
+        "cena": 111.999,
+        "specifikacije": {
+          "ekran": 6.1,
+          "procesor": "Apple A15 Bionic",
+          "RAM": "4GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "marka": "IPHONE",
+        "model": "13 mini",
+        "slika": {
+          "putanja": "images/apple-iphone-13-mini.jpg",
+          "alt": "iphone13Mini"
+        },
+        "kolicina": 4,
+        "cena": 97.999,
+        "specifikacije": {
+          "ekran": 5.4,
+          "procesor": "Apple A15 Bionic",
+          "RAM": "4GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 6,
+        "marka": "IPHONE",
+        "model": "12 PRO MAX",
+        "slika": {
+          "putanja": "images/apple-iphone-12-pro-max-.jpg",
+          "alt": "iphone12ProMax"
+        },
+        "kolicina": 3,
+        "cena": 165.999,
+        "specifikacije": {
+          "ekran": 6.7,
+          "procesor": "Apple A14 Bionic",
+          "RAM": "6GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "marka": "IPHONE",
+        "model": "12 PRO",
+        "slika": {
+          "putanja": "images/apple-iphone-12-pro--.jpg",
+          "alt": "iphone12Pro"
+        },
+        "kolicina": 3,
+        "cena": 149.699,
+        "specifikacije": {
+          "ekran": 6.1,
+          "procesor": "Apple A14 Bionic",
+          "RAM": "6GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 8,
+        "marka": "IPHONE",
+        "model": "12",
+        "slika": {
+          "putanja": "images/apple-iphone-12.jpg",
+          "alt": "iphone12"
+        },
+        "kolicina": 5,
+        "cena": 105.999,
+        "specifikacije": {
+          "ekran": 6.1,
+          "procesor": "Apple A14 Bionic",
+          "RAM": "4GB",
+          "memorija": "128gb",
+          "operativniSistem": "iOS 16",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "12MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 9,
+        "marka": "SAMSUNG",
+        "model": "GALAXY S23 ULTRA",
+        "slika": {
+          "putanja": "images/samsung-galaxy-s23-ultra-5g.jpg",
+          "alt": "s23Ultra"
+        },
+        "kolicina": 9,
+        "cena": 171.999,
+        "specifikacije": {
+          "ekran": 6.8,
+          "procesor": "Qualcomm Snapdragon 8 Gen2",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "200MP, 10MP, 10MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 10,
+        "marka": "SAMSUNG",
+        "model": "GALAXY S23 PLUS",
+        "slika": {
+          "putanja": "images/samsung-galaxy-s23-plus-5g.jpg",
+          "alt": "s23Plus"
+        },
+        "kolicina": 5,
+        "cena": 147.999,
+        "specifikacije": {
+          "ekran": 6.6,
+          "procesor": "Qualcomm Snapdragon 8 Gen2",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "12MP",
+            "zadnja": "50MP, 10MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 11,
+        "marka": "SAMSUNG",
+        "model": "GALAXY S22 ULTRA",
+        "slika": {
+          "putanja": "images/samsung-galaxy-s22-ultra-5g.jpg",
+          "alt": "s22Ultra"
+        },
+        "kolicina": 3,
+        "cena": 164.999,
+        "specifikacije": {
+          "ekran": 6.8,
+          "procesor": "Qualcomm Snapdragon 8 Gen1",
+          "RAM": "12GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "40MP",
+            "zadnja": "108MP, 10MP, 10MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 12,
+        "marka": "SAMSUNG",
+        "model": "GALAXY S21 ULTRA",
+        "slika": {
+          "putanja": "images/samsung-galaxy-s21-ultra-5g-.jpg",
+          "alt": "s21Ultra"
+        },
+        "kolicina": 2,
+        "cena": 139.999,
+        "specifikacije": {
+          "ekran": 6.8,
+          "procesor": "Qualcomm Snapdragon 888",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "40MP",
+            "zadnja": "108MP, 10MP, 10MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 13,
+        "marka": "SAMSUNG",
+        "model": "GALAXY A54",
+        "slika": {
+          "putanja": "images/samsung-galaxy-a54.jpg",
+          "alt": "galaxyA54"
+        },
+        "kolicina": 10,
+        "cena": 57.999,
+        "specifikacije": {
+          "ekran": 6.4,
+          "procesor": "Exynos 1380 chipshet (5nm)",
+          "RAM": "8GB",
+          "memorija": "128gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "32MP",
+            "zadnja": "50MP, 21MP, 5MP"
+          }
+        }
+      },
+      {
+        "id": 14,
+        "marka": "HUAWEI",
+        "model": "P60 PRO",
+        "slika": {
+          "putanja": "images/huawei-p60-pro.jpg",
+          "alt": "p60Pro"
+        },
+        "kolicina": 6,
+        "cena": 149.999,
+        "specifikacije": {
+          "ekran": 6.67,
+          "procesor": "Qualcomm Snapdragon 8+ Gen1",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "13MP",
+            "zadnja": "48MP, 48MP, 13MP"
+          }
+        }
+      },
+      {
+        "id": 15,
+        "marka": "HUAWEI",
+        "model": "P60",
+        "slika": {
+          "putanja": "images/huawei-p60.jpg",
+          "alt": "p60"
+        },
+        "kolicina": 6,
+        "cena": 139.999,
+        "specifikacije": {
+          "ekran": 6.67,
+          "procesor": "Qualcomm Snapdragon 8+ Gen1",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "13MP",
+            "zadnja": "48MP, 12MP, 13MP"
+          }
+        }
+      },
+      {
+        "id": 16,
+        "marka": "HUAWEI",
+        "model": "NOVA 11 ULTRA",
+        "slika": {
+          "putanja": "images/huawei-nova11-ultra.jpg",
+          "alt": "nova11Ultra"
+        },
+        "kolicina": 4,
+        "cena": 79.999,
+        "specifikacije": {
+          "ekran": 6.78,
+          "procesor": "Qualcomm Snapdragon 778G",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "60MP, 8MP",
+            "zadnja": "50MP, 8MP"
+          }
+        }
+      },
+      {
+        "id": 17,
+        "marka": "HUAWEI",
+        "model": "NOVA 11 PRO",
+        "slika": {
+          "putanja": "images/huawei-nova11-pro.jpg",
+          "alt": "nova11Pro"
+        },
+        "kolicina": 4,
+        "cena": 62.999,
+        "specifikacije": {
+          "ekran": 6.78,
+          "procesor": "Qualcomm Snapdragon 778G",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "60MP, 8MP",
+            "zadnja": "50MP, 8MP"
+          }
+        }
+      },
+      {
+        "id": 18,
+        "marka": "XIAOMI",
+        "model": "13 ULTRA",
+        "slika": {
+          "putanja": "images/xiaomi-13-ultra.jpg",
+          "alt": "xiaomi13Ultra"
+        },
+        "kolicina": 7,
+        "cena": 162.999,
+        "specifikacije": {
+          "ekran": 6.73,
+          "procesor": "Qualcomm Snapdragon 8 Gen2",
+          "RAM": "12GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "32MP",
+            "zadnja": "50MP, 50MP, 50MP, 50MP"
+          }
+        }
+      },
+      {
+        "id": 19,
+        "marka": "XIAOMI",
+        "model": "13 PRO",
+        "slika": {
+          "putanja": "images/xiaomi-13-pro-black.jpg",
+          "alt": "xiaomi13Pro"
+        },
+        "kolicina": 7,
+        "cena": 154.999,
+        "specifikacije": {
+          "ekran": 6.73,
+          "procesor": "Qualcomm Snapdragon 8 Gen2",
+          "RAM": "12GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "32MP",
+            "zadnja": "50MP, 50MP, 50MP"
+          }
+        }
+      },
+      {
+        "id": 20,
+        "marka": "XIAOMI",
+        "model": "13",
+        "slika": {
+          "putanja": "images/xiaomi-13-red.jpg",
+          "alt": "xiaomi13"
+        },
+        "kolicina": 7,
+        "cena": 119.999,
+        "specifikacije": {
+          "ekran": 6.36,
+          "procesor": "Qualcomm Snapdragon 8 Gen2", 
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "32MP",
+            "zadnja": "50MP, 10MP, 12MP"
+          }
+        }
+      },
+      {
+        "id": 17,
+        "marka": "XIAOMI",
+        "model": "REDMI NOTE 12S",
+        "slika": {
+          "putanja": "images/xiaomi-redmi-note-12s.jpg",
+          "alt": "redmiNote12s"
+        },
+        "kolicina": 20,
+        "cena": 28.999,
+        "specifikacije": {
+          "ekran": 6.43,
+          "procesor": "Mediatek Helio G96 chipset",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "16MP",
+            "zadnja": "108MP, 8MP, 2MP"
+          }
+        }
+      },
+      {
+        "id": 17,
+        "marka": "XIAOMI",
+        "model": "REDMI NOTE 12T",
+        "slika": {
+          "putanja": "images/xiaomi-redmi-note-12-turbo.jpg",
+          "alt": "redmiNote12t"
+        },
+        "kolicina": 13,
+        "cena": 67.999,
+        "specifikacije": {
+          "ekran": 6.67,
+          "procesor": "Qualcomm Snapdragon 8+ Gen1",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "16MP",
+            "zadnja": "64MP, 8MP, 2MP"
+          }
+        }
+      },
+      {
+        "id": 18,
+        "marka": "XIAOMI",
+        "model": "12S ULTRA",
+        "slika": {
+          "putanja": "images/xiaomi-12s-ultra.jpg",
+          "alt": "12sUltra"
+        },
+        "kolicina": 3,
+        "cena": 147.999,
+        "specifikacije": {
+          "ekran": 6.73,
+          "procesor": "Qualcomm Snapdragon 8+ Gen1",
+          "RAM": "8GB",
+          "memorija": "256gb",
+          "operativniSistem": "Android 13",
+          "kamera": {
+            "prednja": "32MP",
+            "zadnja": "50MP, 48MP, 48MP"
+          }
+        }
+      }
+  ]
+  
